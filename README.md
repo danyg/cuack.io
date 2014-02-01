@@ -185,3 +185,6 @@ hacks or Floods
 - API Reference
 - more samples
 - drink a beer (or two)
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-47717226-1/cuack.io/home)](https://github.com/igrigorik/ga-beacon)
